@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>discovery_nearby</string>
+		<key>title</key>
+		<string>附近</string>
+		<key>subtitle</key>
+		<string>查看附近糗友</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>discovery_qiubaihuo</string>
+		<key>title</key>
+		<string>糗百货</string>
+		<key>subtitle</key>
+		<string>萌萌的糗事百科周边,买买买</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>discovery_cafe</string>
+		<key>title</key>
+		<string>里屋</string>
+		<key>subtitle</key>
+		<string>施工中,敬请期待...</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>discovery_game</string>
+		<key>title</key>
+		<string>游戏</string>
+		<key>subtitle</key>
+		<string>施工中,敬请期待...</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>icon_myfriends</string>
+			<key>title</key>
+			<string>我的糗友</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>icon_posted</string>
+			<key>title</key>
+			<string>我发表的</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>icon_icommentd</string>
+			<key>title</key>
+			<string>我参与的</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>icon_myfavourate</string>
+			<key>title</key>
+			<string>我收藏的</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>icon_nightmode</string>
+			<key>title</key>
+			<string>夜间模式</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>icon_setting</string>
+			<key>title</key>
+			<string>设置</string>
+		</dict>
+	</array>
+</array>
+</plist>
